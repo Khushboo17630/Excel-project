@@ -1,6 +1,6 @@
 # Excel-project
 
-𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑶𝒃𝒋𝒆𝒄𝒕𝒊𝒗𝒆:- Online clothing store wants to create an annual sales report for 2023. So that, they can understand their customers and grow more sales in 2025.
+𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑶𝒃𝒋𝒆𝒄𝒕𝒊𝒗𝒆:- Online clothing store wants to create an annual sales report for 2024. So that, they can understand their customers and grow more sales in 2025.
 
 Here I have set some questions to forecast future sales on the basis of different categories by using Pivot Table in Excel.
 
