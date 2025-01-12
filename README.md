@@ -30,9 +30,6 @@ Here I have set some questions to forecast future sales on the basis of differen
 
  4. Data visualization( Creating Dashboard with Slicer).
 
-**Overview Dashboard:**
-
-
 
 🔎 𝑴𝒂𝒋𝒐𝒓 𝒊𝒏𝒔𝒊𝒈𝒉𝒕𝒔 :
 
