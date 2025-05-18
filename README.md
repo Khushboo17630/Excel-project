@@ -15,7 +15,6 @@
 5. [Insights](#insights)
 6. [Recommendations](#recommendations)
 7. [Dashboard Sneak‑Peek](#dashboard-sneak-peek)
-8. [Repository Structure](#repository-structure)
 
 ## Project Overview
 
