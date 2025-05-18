@@ -14,7 +14,7 @@
 4. [Methodology](#methodology)
 5. [Insights](#insights)
 6. [Recommendations](#recommendations)
-7. [Dashboard Sneak‑Peek](#dashboard)
+7. [Dashboard](#dashboard)
 
 ## Project Overview
 
