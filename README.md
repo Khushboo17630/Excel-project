@@ -16,9 +16,6 @@
 6. [Recommendations](#recommendations)
 7. [Dashboard Sneak‑Peek](#dashboard-sneak-peek)
 8. [Repository Structure](#repository-structure)
-9. [How to Reproduce](#how-to-reproduce)
-10. [Contributing](#contributing)
-11. [License](#license)
 
 ## Project Overview
 
